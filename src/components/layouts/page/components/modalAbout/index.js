@@ -19,6 +19,12 @@ const ModalAbout = ({
       <table className={les.table}>
         <tbody>
           <tr>
+            <td>{about.admin}</td>
+            <td>
+              <span>pohcy (에무1918)</span>
+            </td>
+          </tr>
+          <tr>
             <td>{about.designer}</td>
             <td className={les.author}>
               <a href="https://weibo.com/u/1061878751" target="_blank">
