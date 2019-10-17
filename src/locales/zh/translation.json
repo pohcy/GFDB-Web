@@ -98,6 +98,7 @@
   "about": {
     "title": "关于本站",
     "designer": "制作",
+    "admin": "admin",
     "translator_KR": "翻译（韩语）",
     "thanks": "鸣谢",
     "repository": "代码托管",
@@ -139,7 +140,8 @@
     "turbulence": "有序紊流",
     "isomer": "异构体",
     "vahall": "瓦尔哈拉",
-    "connexion": "裂变链接"
+    "connexion": "裂变链接",
+    "holloween": "诡疫狂潮"
   },
   "enemy_char_name": {
     "9999": "",

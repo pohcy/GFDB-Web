@@ -98,6 +98,7 @@
   "about": {
     "title": "About this Site",
     "designer": "Made by",
+    "admin": "admin",
     "translator_KR": "Translated by (Korean)",
     "thanks": "Thanks to",
     "repository": "Repository",
@@ -139,7 +140,8 @@
     "turbulence": "Continuum Turbulence",
     "isomer": "Isomer",
     "vahall": "Valhalla",
-    "connexion": "Shattered Connexion"
+    "connexion": "Shattered Connexion",
+    "holloween": "诡疫狂潮"
   },
   "enemy_char_name": {
     "9999": "",

@@ -15,11 +15,11 @@
     "dll": "webpack --config ./build/webpack.dll.conf.js",
     "db": "webpack --config ./build/webpack.db.conf.js"
   },
-  "author": "L.T.",
+  "author": "pohcy",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ccxcxd/GFDB-Web.git"
+    "url": "git://github.com/pohcy/GFDB-Web.git"
   },
   "dependencies": {
     "antd": "3.17.0",

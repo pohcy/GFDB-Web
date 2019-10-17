@@ -41,13 +41,13 @@ const ModalAbout = ({
           <tr>
             <td>{about.thanks}</td>
             <td>
-              <span>星光下的彩虹, 杯具终产物, 多多鱼鸟, <a href="https://gf.fws.tw/">少女前線資料庫</a>, 245795867a</span>
+              <span>星光下的彩虹, 杯具终产物, 多多鱼鸟, <a href="https://gf.fws.tw/">少女前線資料庫</a>, 245795867a, iorph, myong</span>
             </td>
           </tr>
           <tr>
             <td>{about.repository}</td>
             <td>
-              <a href="https://github.com/ccxcxd/GFDB-Web">
+              <a href="https://github.com/pohcy/GFDB-Web">
                 GitHub
               </a>
             </td>
@@ -55,11 +55,8 @@ const ModalAbout = ({
           <tr>
             <td>{about.feedback}</td>
             <td>
-              <a href="https://github.com/ccxcxd/GFDB-Web/issues">
+              <a href="https://github.com/pohcy/GFDB-Web/issues">
                 GitHub
-              </a>, 
-              <a href="http://nga.178.com/read.php?tid=13906769">
-                NGA<span>{about.chinese}</span>
               </a>
             </td>
           </tr>

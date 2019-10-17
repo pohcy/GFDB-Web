@@ -98,6 +98,7 @@
   "about": {
     "title": "사이트 정보",
     "designer": "제작",
+    "admin": "admin",
     "translator_KR": "번역 (한국어)",
     "thanks": "도움을 주신 분들",
     "repository": "소스코드 저장소",
@@ -139,7 +140,8 @@
     "turbulence": "난류연속",
     "isomer": "이성질체",
     "vahall": "발할라",
-    "connexion": "裂变链接"
+    "connexion": "연쇄분열",
+    "holloween": "팬텀 신드롬"
   },
   "enemy_char_name": {
     "9999": "",
