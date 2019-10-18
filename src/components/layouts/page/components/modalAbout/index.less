@@ -1,5 +1,6 @@
 .table {
   width: 100%;
+  table-layout:fixed;
   tr {
     border-bottom: 1px solid #efefef;
 
@@ -9,6 +10,9 @@
   }
   td {
     padding: 10px 16px;
+    &:first-of-type{
+      width: 150px;
+    }
   }
 
   .author > a {
