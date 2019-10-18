@@ -141,7 +141,7 @@ const TeamTable = ({
     {
       title: __('map_tbl.id'),
       dataIndex: 'id',
-      fixed: 'left',
+      // fixed: 'left',
       width: 90,
       sorter: (a, b) => a.id - b.id,
     },

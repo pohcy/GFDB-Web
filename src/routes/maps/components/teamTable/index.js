@@ -55,7 +55,7 @@ const TeamTable = ({
     {
       title: __('team_tbl.name'),
       dataIndex: 'name',
-      fixed: 'left',
+      // fixed: 'left',
       width: 120,
     },
     {
