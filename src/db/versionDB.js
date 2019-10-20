@@ -1,5 +1,15 @@
 export default [
   {
+    version: '0.1.1',
+    date: '2019.10.20',
+    desc: '누락 데이터 추가 및 체력 버그 수정 Missing SD data update and fix boss HP bug',
+    details: [
+      "SD리소스 누락분 일부 추가",
+      "보스 전투력 및 체력 공식 수정",
+      "드랍 버그 수정 내역 반영",
+    ],
+  },
+  {
     version: '0.1.0',
     date: '2019.03.25',
     desc: '支持战区/Add theater',
