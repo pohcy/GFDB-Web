@@ -33,7 +33,7 @@ const TeamTable = ({
       name: __(enemy.name),
       number: enemy.number,
       level: enemy.level,
-      maxlife: Math.ceil(enemy.maxlife / enemy.number),
+      maxlife: Math.ceil(enemy.life / enemy.number),
       pow: enemy.pow,
       rate: enemy.rate,
       hit: enemy.hit,

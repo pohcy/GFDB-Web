@@ -31,6 +31,7 @@ class GameClass {
       result.number = number;
       result.level = level;
       result.maxlife = this.ueRound(f32(enemyChar.maxlife * lv_to.maxlife / lv_from.maxlife) * number);
+      result.life = (enemyChar.type == 1) ? enemyChar.boss_hp : this.ueRound(f32(enemyChar.maxlife * lv_to.maxlife / lv_from.maxlife) * number);
       result.pow = this.ueRound(enemyChar.pow * lv_to.pow / lv_from.pow);
       result.hit = this.ueRound(enemyChar.hit * lv_to.hit / lv_from.hit);
       result.dodge = this.ueRound(enemyChar.dodge * lv_to.dodge / lv_from.dodge);
@@ -51,10 +52,10 @@ class GameClass {
       return -1;
 
     // effect_attack = 22 * 当前人数 * ((伤害 + 破防 * 0.85)* 射速 / 50 * 命中 / (命中 + 35) + 2)
-    var effect_attack = this.ueCeil(eea[0] * enemy.number * ((enemy.pow + eea[4] * enemy.def_break) * enemy.rate / eea[1] * enemy.hit / (enemy.hit + eea[2]) + eea[3]));
+    var effect_attack = this.ueCeil(eea[0] * this.ueCeil(enemy.life / enemy.maxlife * enemy.number) * ((enemy.pow + eea[4] * enemy.def_break) * enemy.rate / eea[1] * enemy.hit / (enemy.hit + eea[2]) + eea[3]));
     // effect_defence = 0.25 * (当前总生命 * (35 + 回避) / 35 * 200 / (200 - 护甲) + 100) * (防护 * 2 - 防护 * 当前防护% + 150 * 2) / (防护 - 防护 * 当前防护% + 150) / 2
     var defEff = f32(f32(enemy.def * def_percent) / 100);
-    var effect_defence = this.ueCeil(eed[0] * (enemy.maxlife * (eed[1] + enemy.dodge) / eed[1] * eed[2] / (eed[2] - enemy.armor) + eed[3]) *
+    var effect_defence = this.ueCeil(eed[0] * (enemy.life * (eed[1] + enemy.dodge) / eed[1] * eed[2] / (eed[2] - enemy.armor) + eed[3]) *
       (enemy.def * 2 - defEff + eed[4] * 2) / (enemy.def - defEff + eed[4]) / 2);
     var effect = this.ueCeil(f32(enemy.effect_ratio) * (f32(effect_attack) + f32(effect_defence)));
 
