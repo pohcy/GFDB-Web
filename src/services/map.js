@@ -361,31 +361,47 @@ class Map {
     this.drawBgImageHelper(ctx, bgImg, mission, 2, 2, -1, -1);
 
     ctx.restore();
+    //건물 구분을 위한 타입 아이디 배열값
+    var target_type = [5,10];
 
     // draw spot connections
     $.each(mission.spot_ids, (index, spot_id) => {
-      var spot_info = this.spot_info
+      var spot = this.spot_info[spot_id];
+      
+      // draw buildings(below)
+      if (spot.building_id != 0 && (target_type.indexOf(this.building_info[spot.building_id].type) != -1)) {
+        console.log(spot.type+"::" + this.building_info[spot.building_id].type);
+        var building = this.building_info[spot.building_id];
+        this.drawBuilding(ctx, spot.coordinator_x, spot.coordinator_y, building);
+      }
+    });
+
+    // draw load
+    $.each(mission.spot_ids, (index, spot_id) => {
+      var spot_info = this.spot_info;
       var spot = spot_info[spot_id];
+      
       $.each(spot.route_types, (other_id, number_of_ways) => {
         this.drawConnectionLine(ctx, spot.coordinator_x, spot.coordinator_y,
           spot_info[other_id].coordinator_x, spot_info[other_id].coordinator_y, number_of_ways);
       });
     });
-
-    // draw spots
+    
     $.each(mission.spot_ids, (index, spot_id) => {
       var spot = this.spot_info[spot_id];
+      
+      // draw spots
       var spotImg = imgLoader.imgs[spot.imagename];
       var w = spotImg.naturalWidth;
       var h = spotImg.naturalHeight;
       ctx.drawImage(spotImg, spot.coordinator_x - w / 2, spot.coordinator_y - h / 2);
 
-      // draw buildings
-      if (spot.building_id != 0) {
-        var building = this.building_info[spot.building_id];
-        this.drawBuilding(ctx, spot.coordinator_x, spot.coordinator_y, building);
-      }
-    });
+      // draw buildings(above)
+       if (spot.building_id != 0 && (target_type.indexOf(this.building_info[spot.building_id].type) == -1)) {
+         var building = this.building_info[spot.building_id];
+         this.drawBuilding(ctx, spot.coordinator_x, spot.coordinator_y, building);
+       }
+     });
   }
 
   drawBgImageHelper (ctx, bgImg, mission, x_src, y_src, x_scale, y_scale) {

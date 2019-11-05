@@ -17,7 +17,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "2": {
     "id": 2,
@@ -37,7 +38,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 2
   },
   "3": {
     "id": 3,
@@ -57,7 +59,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "4": {
     "id": 4,
@@ -77,7 +80,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "5": {
     "id": 5,
@@ -97,7 +101,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 2
   },
   "6": {
     "id": 6,
@@ -117,7 +122,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "7": {
     "id": 7,
@@ -137,7 +143,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 2
   },
   "8": {
     "id": 8,
@@ -157,7 +164,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 2
   },
   "9": {
     "id": 9,
@@ -177,7 +185,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "10": {
     "id": 10,
@@ -197,7 +206,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "11": {
     "id": 11,
@@ -217,7 +227,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "12": {
     "id": 12,
@@ -237,7 +248,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 2
   },
   "13": {
     "id": 13,
@@ -257,7 +269,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "14": {
     "id": 14,
@@ -277,7 +290,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "15": {
     "id": 15,
@@ -297,7 +311,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "16": {
     "id": 16,
@@ -317,7 +332,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 4
   },
   "17": {
     "id": 17,
@@ -337,7 +353,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,1",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 4
   },
   "18": {
     "id": 18,
@@ -357,7 +374,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 2
   },
   "19": {
     "id": 19,
@@ -377,7 +395,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "20": {
     "id": 20,
@@ -397,7 +416,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "21": {
     "id": 21,
@@ -417,7 +437,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "22": {
     "id": 22,
@@ -437,7 +458,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "23": {
     "id": 23,
@@ -457,7 +479,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 4
   },
   "24": {
     "id": 24,
@@ -477,7 +500,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "25": {
     "id": 25,
@@ -497,7 +521,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "26": {
     "id": 26,
@@ -517,7 +542,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "27": {
     "id": 27,
@@ -537,7 +563,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "28": {
     "id": 28,
@@ -557,7 +584,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,2",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "29": {
     "id": 29,
@@ -577,7 +605,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "30": {
     "id": 30,
@@ -597,7 +626,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "31": {
     "id": 31,
@@ -617,7 +647,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "32": {
     "id": 32,
@@ -637,7 +668,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,2",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "33": {
     "id": 33,
@@ -657,7 +689,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,3",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "320401": {
     "id": 320401,
@@ -677,7 +710,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "320402": {
     "id": 320402,
@@ -697,7 +731,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "321201": {
     "id": 321201,
@@ -717,7 +752,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "321202": {
     "id": 321202,
@@ -737,7 +773,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "321203": {
     "id": 321203,
@@ -757,7 +794,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "321204": {
     "id": 321204,
@@ -777,7 +815,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "321205": {
     "id": 321205,
@@ -797,7 +836,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "321206": {
     "id": 321206,
@@ -817,7 +857,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "321207": {
     "id": 321207,
@@ -837,7 +878,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "321208": {
     "id": 321208,
@@ -857,7 +899,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "321209": {
     "id": 321209,
@@ -877,7 +920,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "321210": {
     "id": 321210,
@@ -897,7 +941,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "321211": {
     "id": 321211,
@@ -917,7 +962,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "321212": {
     "id": 321212,
@@ -937,7 +983,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "321213": {
     "id": 321213,
@@ -957,7 +1004,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "321214": {
     "id": 321214,
@@ -977,7 +1025,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "321215": {
     "id": 321215,
@@ -997,7 +1046,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "321216": {
     "id": 321216,
@@ -1017,7 +1067,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "321217": {
     "id": 321217,
@@ -1037,7 +1088,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "321501": {
     "id": 321501,
@@ -1057,7 +1109,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 8
   },
   "321502": {
     "id": 321502,
@@ -1077,7 +1130,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "321503": {
     "id": 321503,
@@ -1097,7 +1151,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "321601": {
     "id": 321601,
@@ -1117,7 +1172,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "330801": {
     "id": 330801,
@@ -1137,7 +1193,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "330802": {
     "id": 330802,
@@ -1157,7 +1214,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "331201": {
     "id": 331201,
@@ -1177,7 +1235,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 8
   },
   "331202": {
     "id": 331202,
@@ -1197,7 +1256,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 8
   },
   "331203": {
     "id": 331203,
@@ -1217,7 +1277,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 9
   },
   "331401": {
     "id": 331401,
@@ -1237,7 +1298,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "331402": {
     "id": 331402,
@@ -1257,7 +1319,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "331403": {
     "id": 331403,
@@ -1277,7 +1340,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "331601": {
     "id": 331601,
@@ -1297,7 +1361,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "331602": {
     "id": 331602,
@@ -1317,7 +1382,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "331603": {
     "id": 331603,
@@ -1337,7 +1403,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "331901": {
     "id": 331901,
@@ -1357,7 +1424,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "331902": {
     "id": 331902,
@@ -1377,7 +1445,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "331903": {
     "id": 331903,
@@ -1397,7 +1466,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "331904": {
     "id": 331904,
@@ -1417,7 +1487,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "331905": {
     "id": 331905,
@@ -1437,7 +1508,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "331906": {
     "id": 331906,
@@ -1457,7 +1529,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "332101": {
     "id": 332101,
@@ -1477,7 +1550,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 12
   },
   "332102": {
     "id": 332102,
@@ -1497,7 +1571,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 13
   },
   "332103": {
     "id": 332103,
@@ -1517,7 +1592,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 14
   },
   "332104": {
     "id": 332104,
@@ -1537,7 +1613,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 15
   },
   "332105": {
     "id": 332105,
@@ -1557,7 +1634,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 16
   },
   "333001": {
     "id": 333001,
@@ -1577,7 +1655,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "333002": {
     "id": 333002,
@@ -1597,7 +1676,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "333003": {
     "id": 333003,
@@ -1617,7 +1697,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 8
   },
   "333201": {
     "id": 333201,
@@ -1637,7 +1718,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "333202": {
     "id": 333202,
@@ -1657,7 +1739,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "333203": {
     "id": 333203,
@@ -1677,7 +1760,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "333204": {
     "id": 333204,
@@ -1697,7 +1781,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "333205": {
     "id": 333205,
@@ -1717,7 +1802,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "333401": {
     "id": 333401,
@@ -1737,7 +1823,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "333402": {
     "id": 333402,
@@ -1757,7 +1844,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "333403": {
     "id": 333403,
@@ -1777,7 +1865,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "333404": {
     "id": 333404,
@@ -1797,7 +1886,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "333405": {
     "id": 333405,
@@ -1817,7 +1907,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "333601": {
     "id": 333601,
@@ -1837,7 +1928,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,2",
     "performance_skill": "900011;0;900011;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "333602": {
     "id": 333602,
@@ -1857,7 +1949,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "2,4",
     "performance_skill": "900012;0;900012;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "333603": {
     "id": 333603,
@@ -1877,7 +1970,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "3,5",
     "performance_skill": "900010;0;900010;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "333604": {
     "id": 333604,
@@ -1897,7 +1991,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "333605": {
     "id": 333605,
@@ -1917,7 +2012,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "333606": {
     "id": 333606,
@@ -1937,7 +2033,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "333607": {
     "id": 333607,
@@ -1957,7 +2054,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "333901": {
     "id": 333901,
@@ -1977,7 +2075,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "333902": {
     "id": 333902,
@@ -1997,7 +2096,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "334601": {
     "id": 334601,
@@ -2017,7 +2117,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "334602": {
     "id": 334602,
@@ -2037,7 +2138,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "334603": {
     "id": 334603,
@@ -2057,7 +2159,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "334610": {
     "id": 334610,
@@ -2077,7 +2180,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "334901": {
     "id": 334901,
@@ -2097,7 +2201,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "334910": {
     "id": 334910,
@@ -2117,7 +2222,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "2,4",
     "performance_skill": "900012;0;900012;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "335201": {
     "id": 335201,
@@ -2137,7 +2243,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "335202": {
     "id": 335202,
@@ -2157,7 +2264,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "335203": {
     "id": 335203,
@@ -2177,7 +2285,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "335204": {
     "id": 335204,
@@ -2197,7 +2306,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "335205": {
     "id": 335205,
@@ -2217,7 +2327,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "335301": {
     "id": 335301,
@@ -2237,7 +2348,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 8
   },
   "335302": {
     "id": 335302,
@@ -2257,7 +2369,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "335303": {
     "id": 335303,
@@ -2277,7 +2390,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "335401": {
     "id": 335401,
@@ -2297,7 +2411,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 9
   },
   "335402": {
     "id": 335402,
@@ -2317,7 +2432,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 9
   },
   "335403": {
     "id": 335403,
@@ -2337,7 +2453,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 9
   },
   "335404": {
     "id": 335404,
@@ -2357,7 +2474,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 8
   },
   "335405": {
     "id": 335405,
@@ -2377,7 +2495,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 8
   },
   "335501": {
     "id": 335501,
@@ -2397,7 +2516,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "335502": {
     "id": 335502,
@@ -2417,7 +2537,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "335503": {
     "id": 335503,
@@ -2437,7 +2558,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "335504": {
     "id": 335504,
@@ -2457,7 +2579,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "335505": {
     "id": 335505,
@@ -2477,7 +2600,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "335601": {
     "id": 335601,
@@ -2497,7 +2621,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "335602": {
     "id": 335602,
@@ -2517,7 +2642,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "335603": {
     "id": 335603,
@@ -2537,7 +2663,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "335604": {
     "id": 335604,
@@ -2557,7 +2684,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "335605": {
     "id": 335605,
@@ -2577,7 +2705,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "335701": {
     "id": 335701,
@@ -2597,7 +2726,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "335702": {
     "id": 335702,
@@ -2617,7 +2747,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "335703": {
     "id": 335703,
@@ -2637,7 +2768,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "335704": {
     "id": 335704,
@@ -2657,7 +2789,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "335801": {
     "id": 335801,
@@ -2677,7 +2810,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 14
   },
   "335802": {
     "id": 335802,
@@ -2697,7 +2831,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 15
   },
   "335803": {
     "id": 335803,
@@ -2717,7 +2852,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 16
   },
   "336101": {
     "id": 336101,
@@ -2737,7 +2873,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "336102": {
     "id": 336102,
@@ -2757,7 +2894,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 8
   },
   "336103": {
     "id": 336103,
@@ -2777,7 +2915,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "336104": {
     "id": 336104,
@@ -2797,7 +2936,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "336201": {
     "id": 336201,
@@ -2817,7 +2957,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "336202": {
     "id": 336202,
@@ -2837,7 +2978,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "336203": {
     "id": 336203,
@@ -2857,7 +2999,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "336204": {
     "id": 336204,
@@ -2877,7 +3020,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "336205": {
     "id": 336205,
@@ -2897,7 +3041,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "336206": {
     "id": 336206,
@@ -2917,7 +3062,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "336207": {
     "id": 336207,
@@ -2937,7 +3083,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "336208": {
     "id": 336208,
@@ -2957,7 +3104,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "336301": {
     "id": 336301,
@@ -2977,7 +3125,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "336302": {
     "id": 336302,
@@ -2997,7 +3146,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "336303": {
     "id": 336303,
@@ -3017,7 +3167,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "336304": {
     "id": 336304,
@@ -3037,7 +3188,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "336305": {
     "id": 336305,
@@ -3057,7 +3209,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "336401": {
     "id": 336401,
@@ -3077,7 +3230,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 13
   },
   "336402": {
     "id": 336402,
@@ -3097,7 +3251,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 12
   },
   "336403": {
     "id": 336403,
@@ -3117,7 +3272,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "336404": {
     "id": 336404,
@@ -3137,7 +3293,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "336405": {
     "id": 336405,
@@ -3157,7 +3314,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "336406": {
     "id": 336406,
@@ -3177,7 +3335,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "336407": {
     "id": 336407,
@@ -3197,7 +3356,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "3,5",
     "performance_skill": "900010;0;900010;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "336408": {
     "id": 336408,
@@ -3217,7 +3377,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,2",
     "performance_skill": "900011;0;900011;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "336501": {
     "id": 336501,
@@ -3237,7 +3398,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 13
   },
   "336502": {
     "id": 336502,
@@ -3257,7 +3419,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 12
   },
   "336503": {
     "id": 336503,
@@ -3277,7 +3440,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "336504": {
     "id": 336504,
@@ -3297,7 +3461,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "336505": {
     "id": 336505,
@@ -3317,7 +3482,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "336601": {
     "id": 336601,
@@ -3337,7 +3503,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "336602": {
     "id": 336602,
@@ -3357,7 +3524,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "336603": {
     "id": 336603,
@@ -3377,7 +3545,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "336604": {
     "id": 336604,
@@ -3397,7 +3566,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "336701": {
     "id": 336701,
@@ -3417,7 +3587,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "336702": {
     "id": 336702,
@@ -3437,7 +3608,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "336703": {
     "id": 336703,
@@ -3457,7 +3629,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "336801": {
     "id": 336801,
@@ -3477,7 +3650,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "336802": {
     "id": 336802,
@@ -3497,7 +3671,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "336803": {
     "id": 336803,
@@ -3517,7 +3692,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "336804": {
     "id": 336804,
@@ -3537,7 +3713,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "336805": {
     "id": 336805,
@@ -3557,7 +3734,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "336901": {
     "id": 336901,
@@ -3577,7 +3755,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "336902": {
     "id": 336902,
@@ -3597,7 +3776,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "336903": {
     "id": 336903,
@@ -3617,7 +3797,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "336904": {
     "id": 336904,
@@ -3637,7 +3818,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 4
   },
   "337201": {
     "id": 337201,
@@ -3657,7 +3839,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "337202": {
     "id": 337202,
@@ -3677,7 +3860,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 4
   },
   "337203": {
     "id": 337203,
@@ -3697,7 +3881,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "337204": {
     "id": 337204,
@@ -3717,7 +3902,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "337205": {
     "id": 337205,
@@ -3737,7 +3923,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "337206": {
     "id": 337206,
@@ -3757,7 +3944,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 14
   },
   "337207": {
     "id": 337207,
@@ -3777,7 +3965,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 15
   },
   "337208": {
     "id": 337208,
@@ -3797,7 +3986,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 16
   },
   "337209": {
     "id": 337209,
@@ -3817,7 +4007,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "337210": {
     "id": 337210,
@@ -3837,7 +4028,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "2,4",
     "performance_skill": "900012;0;900012;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "3179001": {
     "id": 3179001,
@@ -3857,7 +4049,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 8
   },
   "3179002": {
     "id": 3179002,
@@ -3877,7 +4070,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 8
   },
   "3179003": {
     "id": 3179003,
@@ -3897,7 +4091,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 8
   },
   "3179004": {
     "id": 3179004,
@@ -3917,7 +4112,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 8
   },
   "3179005": {
     "id": 3179005,
@@ -3937,7 +4133,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 9
   },
   "3179006": {
     "id": 3179006,
@@ -3957,7 +4154,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 10
   },
   "3179007": {
     "id": 3179007,
@@ -3977,7 +4175,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 10
   },
   "3179008": {
     "id": 3179008,
@@ -3997,7 +4196,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 10
   },
   "3179009": {
     "id": 3179009,
@@ -4017,7 +4217,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "3179010": {
     "id": 3179010,
@@ -4037,7 +4238,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "3179011": {
     "id": 3179011,
@@ -4057,7 +4259,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "3179012": {
     "id": 3179012,
@@ -4077,7 +4280,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,1",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 4
   },
   "3179013": {
     "id": 3179013,
@@ -4097,7 +4301,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "3179014": {
     "id": 3179014,
@@ -4117,7 +4322,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "3179015": {
     "id": 3179015,
@@ -4137,7 +4343,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "3179016": {
     "id": 3179016,
@@ -4157,7 +4364,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "3179017": {
     "id": 3179017,
@@ -4177,7 +4385,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "3179018": {
     "id": 3179018,
@@ -4197,7 +4406,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "3179019": {
     "id": 3179019,
@@ -4217,7 +4427,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "3179020": {
     "id": 3179020,
@@ -4237,7 +4448,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "3179021": {
     "id": 3179021,
@@ -4257,7 +4469,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "3179022": {
     "id": 3179022,
@@ -4277,7 +4490,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "3179023": {
     "id": 3179023,
@@ -4297,7 +4511,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "3179024": {
     "id": 3179024,
@@ -4317,7 +4532,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "3179025": {
     "id": 3179025,
@@ -4337,7 +4553,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "3179026": {
     "id": 3179026,
@@ -4357,7 +4574,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "3179027": {
     "id": 3179027,
@@ -4377,7 +4595,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,5",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 11
   },
   "3179028": {
     "id": 3179028,
@@ -4397,7 +4616,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,5",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 11
   },
   "3179029": {
     "id": 3179029,
@@ -4417,7 +4637,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "3179030": {
     "id": 3179030,
@@ -4437,7 +4658,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "3179031": {
     "id": 3179031,
@@ -4457,7 +4679,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "3179032": {
     "id": 3179032,
@@ -4477,7 +4700,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "3179033": {
     "id": 3179033,
@@ -4497,7 +4721,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "3179034": {
     "id": 3179034,
@@ -4517,7 +4742,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "9031001": {
     "id": 9031001,
@@ -4537,7 +4763,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "9031002": {
     "id": 9031002,
@@ -4557,7 +4784,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "9031003": {
     "id": 9031003,
@@ -4577,7 +4805,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,4",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "9031004": {
     "id": 9031004,
@@ -4597,7 +4826,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,4",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "9031005": {
     "id": 9031005,
@@ -4617,7 +4847,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031006": {
     "id": 9031006,
@@ -4637,7 +4868,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031007": {
     "id": 9031007,
@@ -4657,7 +4889,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,4",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "9031008": {
     "id": 9031008,
@@ -4677,7 +4910,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,4",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "9031009": {
     "id": 9031009,
@@ -4697,7 +4931,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031010": {
     "id": 9031010,
@@ -4717,7 +4952,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031011": {
     "id": 9031011,
@@ -4737,7 +4973,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031012": {
     "id": 9031012,
@@ -4757,7 +4994,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031013": {
     "id": 9031013,
@@ -4777,7 +5015,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031014": {
     "id": 9031014,
@@ -4797,7 +5036,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031015": {
     "id": 9031015,
@@ -4817,7 +5057,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031016": {
     "id": 9031016,
@@ -4837,7 +5078,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031017": {
     "id": 9031017,
@@ -4857,7 +5099,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031018": {
     "id": 9031018,
@@ -4877,7 +5120,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031019": {
     "id": 9031019,
@@ -4897,7 +5141,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031020": {
     "id": 9031020,
@@ -4917,7 +5162,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031021": {
     "id": 9031021,
@@ -4937,7 +5183,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031022": {
     "id": 9031022,
@@ -4957,7 +5204,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031023": {
     "id": 9031023,
@@ -4977,7 +5225,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031024": {
     "id": 9031024,
@@ -4997,7 +5246,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031025": {
     "id": 9031025,
@@ -5017,7 +5267,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031026": {
     "id": 9031026,
@@ -5037,7 +5288,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031027": {
     "id": 9031027,
@@ -5057,7 +5309,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031028": {
     "id": 9031028,
@@ -5077,7 +5330,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031029": {
     "id": 9031029,
@@ -5097,7 +5351,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031030": {
     "id": 9031030,
@@ -5117,7 +5372,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031031": {
     "id": 9031031,
@@ -5137,7 +5393,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031032": {
     "id": 9031032,
@@ -5157,7 +5414,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031033": {
     "id": 9031033,
@@ -5177,7 +5435,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "9031034": {
     "id": 9031034,
@@ -5197,7 +5456,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031035": {
     "id": 9031035,
@@ -5217,7 +5477,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "9031036": {
     "id": 9031036,
@@ -5237,7 +5498,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "9031037": {
     "id": 9031037,
@@ -5257,7 +5519,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "9031038": {
     "id": 9031038,
@@ -5277,7 +5540,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "9031039": {
     "id": 9031039,
@@ -5297,7 +5561,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031040": {
     "id": 9031040,
@@ -5317,7 +5582,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "9031041": {
     "id": 9031041,
@@ -5337,7 +5603,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031042": {
     "id": 9031042,
@@ -5357,7 +5624,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "9031043": {
     "id": 9031043,
@@ -5377,7 +5645,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "9031044": {
     "id": 9031044,
@@ -5397,7 +5666,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "9031045": {
     "id": 9031045,
@@ -5417,7 +5687,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "9031046": {
     "id": 9031046,
@@ -5437,7 +5708,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 2
   },
   "9031047": {
     "id": 9031047,
@@ -5457,7 +5729,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 2
   },
   "9031048": {
     "id": 9031048,
@@ -5477,7 +5750,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "9031049": {
     "id": 9031049,
@@ -5497,7 +5771,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "9031050": {
     "id": 9031050,
@@ -5517,7 +5792,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 2
   },
   "9031051": {
     "id": 9031051,
@@ -5537,7 +5813,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 2
   },
   "9031052": {
     "id": 9031052,
@@ -5557,7 +5834,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "9031053": {
     "id": 9031053,
@@ -5577,7 +5855,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "9031054": {
     "id": 9031054,
@@ -5597,7 +5876,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031055": {
     "id": 9031055,
@@ -5617,7 +5897,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031056": {
     "id": 9031056,
@@ -5637,7 +5918,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031057": {
     "id": 9031057,
@@ -5657,7 +5939,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 8
   },
   "9031058": {
     "id": 9031058,
@@ -5677,7 +5960,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 9
   },
   "9031059": {
     "id": 9031059,
@@ -5697,7 +5981,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 9
   },
   "9031060": {
     "id": 9031060,
@@ -5717,7 +6002,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "9031061": {
     "id": 9031061,
@@ -5737,7 +6023,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031062": {
     "id": 9031062,
@@ -5757,7 +6044,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031063": {
     "id": 9031063,
@@ -5777,7 +6065,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031064": {
     "id": 9031064,
@@ -5797,7 +6086,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031065": {
     "id": 9031065,
@@ -5817,7 +6107,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031066": {
     "id": 9031066,
@@ -5837,7 +6128,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031067": {
     "id": 9031067,
@@ -5857,7 +6149,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031068": {
     "id": 9031068,
@@ -5877,7 +6170,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031069": {
     "id": 9031069,
@@ -5897,7 +6191,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031070": {
     "id": 9031070,
@@ -5917,7 +6212,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031071": {
     "id": 9031071,
@@ -5937,7 +6233,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031072": {
     "id": 9031072,
@@ -5957,7 +6254,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031073": {
     "id": 9031073,
@@ -5977,7 +6275,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031074": {
     "id": 9031074,
@@ -5997,7 +6296,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031075": {
     "id": 9031075,
@@ -6017,7 +6317,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031076": {
     "id": 9031076,
@@ -6037,7 +6338,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031077": {
     "id": 9031077,
@@ -6057,7 +6359,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031078": {
     "id": 9031078,
@@ -6077,7 +6380,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031079": {
     "id": 9031079,
@@ -6097,7 +6401,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031080": {
     "id": 9031080,
@@ -6117,7 +6422,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031081": {
     "id": 9031081,
@@ -6137,7 +6443,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031082": {
     "id": 9031082,
@@ -6157,7 +6464,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031083": {
     "id": 9031083,
@@ -6177,7 +6485,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031084": {
     "id": 9031084,
@@ -6197,7 +6506,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031085": {
     "id": 9031085,
@@ -6217,7 +6527,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031086": {
     "id": 9031086,
@@ -6237,7 +6548,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031087": {
     "id": 9031087,
@@ -6257,7 +6569,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031088": {
     "id": 9031088,
@@ -6277,7 +6590,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031089": {
     "id": 9031089,
@@ -6297,7 +6611,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031090": {
     "id": 9031090,
@@ -6317,7 +6632,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031091": {
     "id": 9031091,
@@ -6337,7 +6653,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031092": {
     "id": 9031092,
@@ -6357,7 +6674,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031093": {
     "id": 9031093,
@@ -6377,7 +6695,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031094": {
     "id": 9031094,
@@ -6397,7 +6716,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031095": {
     "id": 9031095,
@@ -6417,7 +6737,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031096": {
     "id": 9031096,
@@ -6437,7 +6758,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031097": {
     "id": 9031097,
@@ -6457,7 +6779,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 8
   },
   "9031098": {
     "id": 9031098,
@@ -6477,7 +6800,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 9
   },
   "9031099": {
     "id": 9031099,
@@ -6497,7 +6821,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 9
   },
   "9031100": {
     "id": 9031100,
@@ -6517,7 +6842,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "9031101": {
     "id": 9031101,
@@ -6537,7 +6863,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "9031102": {
     "id": 9031102,
@@ -6557,7 +6884,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031103": {
     "id": 9031103,
@@ -6577,7 +6905,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031104": {
     "id": 9031104,
@@ -6597,7 +6926,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "9031105": {
     "id": 9031105,
@@ -6617,7 +6947,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 8
   },
   "9031106": {
     "id": 9031106,
@@ -6637,7 +6968,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 9
   },
   "9031107": {
     "id": 9031107,
@@ -6657,7 +6989,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 9
   },
   "9031108": {
     "id": 9031108,
@@ -6677,7 +7010,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "9031109": {
     "id": 9031109,
@@ -6697,7 +7031,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "9031110": {
     "id": 9031110,
@@ -6717,7 +7052,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031111": {
     "id": 9031111,
@@ -6737,7 +7073,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031112": {
     "id": 9031112,
@@ -6757,7 +7094,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "9031113": {
     "id": 9031113,
@@ -6777,7 +7115,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "9031114": {
     "id": 9031114,
@@ -6797,7 +7136,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,4",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "9031115": {
     "id": 9031115,
@@ -6817,7 +7157,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "9031116": {
     "id": 9031116,
@@ -6837,7 +7178,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,4",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "9031117": {
     "id": 9031117,
@@ -6857,7 +7199,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031118": {
     "id": 9031118,
@@ -6877,7 +7220,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031119": {
     "id": 9031119,
@@ -6897,7 +7241,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031120": {
     "id": 9031120,
@@ -6917,7 +7262,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031121": {
     "id": 9031121,
@@ -6937,7 +7283,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031122": {
     "id": 9031122,
@@ -6957,7 +7304,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031123": {
     "id": 9031123,
@@ -6977,7 +7325,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031124": {
     "id": 9031124,
@@ -6997,7 +7346,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031125": {
     "id": 9031125,
@@ -7017,7 +7367,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031126": {
     "id": 9031126,
@@ -7037,7 +7388,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031127": {
     "id": 9031127,
@@ -7057,7 +7409,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031128": {
     "id": 9031128,
@@ -7077,7 +7430,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031129": {
     "id": 9031129,
@@ -7097,7 +7451,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031130": {
     "id": 9031130,
@@ -7117,7 +7472,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031131": {
     "id": 9031131,
@@ -7137,7 +7493,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 8
   },
   "9031132": {
     "id": 9031132,
@@ -7157,7 +7514,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 9
   },
   "9031133": {
     "id": 9031133,
@@ -7177,7 +7535,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 9
   },
   "9031134": {
     "id": 9031134,
@@ -7197,7 +7556,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "9031135": {
     "id": 9031135,
@@ -7217,7 +7577,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031136": {
     "id": 9031136,
@@ -7237,7 +7598,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031137": {
     "id": 9031137,
@@ -7257,7 +7619,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 8
   },
   "9031138": {
     "id": 9031138,
@@ -7277,7 +7640,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 9
   },
   "9031139": {
     "id": 9031139,
@@ -7297,7 +7661,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 9
   },
   "9031140": {
     "id": 9031140,
@@ -7317,7 +7682,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "9031141": {
     "id": 9031141,
@@ -7337,7 +7703,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031142": {
     "id": 9031142,
@@ -7357,7 +7724,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031143": {
     "id": 9031143,
@@ -7377,7 +7745,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031144": {
     "id": 9031144,
@@ -7397,7 +7766,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "9031145": {
     "id": 9031145,
@@ -7417,7 +7787,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031146": {
     "id": 9031146,
@@ -7437,7 +7808,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031147": {
     "id": 9031147,
@@ -7457,7 +7829,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,2",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 3
   },
   "9031148": {
     "id": 9031148,
@@ -7477,7 +7850,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 8
   },
   "9031149": {
     "id": 9031149,
@@ -7497,7 +7871,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 10
   },
   "9031150": {
     "id": 9031150,
@@ -7517,7 +7892,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "9031151": {
     "id": 9031151,
@@ -7537,7 +7913,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 8
   },
   "9031152": {
     "id": 9031152,
@@ -7557,7 +7934,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 10
   },
   "9031153": {
     "id": 9031153,
@@ -7577,7 +7955,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "9031154": {
     "id": 9031154,
@@ -7597,7 +7976,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031155": {
     "id": 9031155,
@@ -7617,7 +7997,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031156": {
     "id": 9031156,
@@ -7637,7 +8018,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "9031157": {
     "id": 9031157,
@@ -7657,7 +8039,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "9031158": {
     "id": 9031158,
@@ -7677,7 +8060,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "9031159": {
     "id": 9031159,
@@ -7697,7 +8081,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "9031160": {
     "id": 9031160,
@@ -7717,7 +8102,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 8
   },
   "9031161": {
     "id": 9031161,
@@ -7737,7 +8123,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 9
   },
   "9031162": {
     "id": 9031162,
@@ -7757,7 +8144,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 9
   },
   "9031163": {
     "id": 9031163,
@@ -7777,7 +8165,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031164": {
     "id": 9031164,
@@ -7797,7 +8186,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 7
   },
   "9031165": {
     "id": 9031165,
@@ -7817,7 +8207,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "9031166": {
     "id": 9031166,
@@ -7837,7 +8228,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,1",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "9031167": {
     "id": 9031167,
@@ -7857,7 +8249,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "9031168": {
     "id": 9031168,
@@ -7877,7 +8270,8 @@
     "shifting_team": "0,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 0
+    "show_info": 0,
+    "type": 5
   },
   "9031169": {
     "id": 9031169,
@@ -7897,7 +8291,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 8
   },
   "9031170": {
     "id": 9031170,
@@ -7917,7 +8312,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 9
   },
   "9031171": {
     "id": 9031171,
@@ -7937,7 +8333,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 9
   },
   "9031172": {
     "id": 9031172,
@@ -7957,7 +8354,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,2",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "9031173": {
     "id": 9031173,
@@ -7977,7 +8375,8 @@
     "shifting_team": "-30,0",
     "battle_assist_range": "1,2",
     "performance_skill": "800101,102304,405002;0;800101,102304,405002;0",
-    "show_info": 1
+    "show_info": 1,
+    "type": 1
   },
   "9031175": {
     "id": 9031175,
@@ -7997,7 +8396,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031176": {
     "id": 9031176,
@@ -8017,7 +8417,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031177": {
     "id": 9031177,
@@ -8037,7 +8438,8 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   },
   "9031178": {
     "id": 9031178,
@@ -8057,6 +8459,7 @@
     "shifting_team": "-20,0",
     "battle_assist_range": "0,0",
     "performance_skill": "",
-    "show_info": 1
+    "show_info": 1,
+    "type": 6
   }
 }
