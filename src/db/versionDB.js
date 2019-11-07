@@ -1,5 +1,14 @@
 export default [
   {
+    version: '0.1.2',
+    date: '2019.11.07',
+    desc: '리소스 추가 및 리사이징, 버그 수정/Resize some resources, and bug fix',
+    details: [
+      "리소스 추가 및 Building 이미지 리사이징",
+      "도로 등 일부 빌딩이 지도를 가리는 현상 수정",
+    ],
+  },
+  {
     version: '0.1.1',
     date: '2019.10.20',
     desc: '누락 데이터 추가 및 체력 버그 수정 Missing SD data update and fix boss HP bug',

@@ -692,6 +692,27 @@
     "show_info": 1,
     "type": 3
   },
+  "34": {
+    "id": 34,
+    "defender": 50,
+    "defender_upper": 50,
+    "belong": 3,
+    "hold_belong": 1,
+    "mission_skill": "0;0;0;0",
+    "battle_skill": "0;0;0;0",
+    "condition": "0:0,1:0;0:0,1:1",
+    "is_destroy": "0",
+    "is_rebuild": 0,
+    "draw_event": 0,
+    "name": "building-10000034",
+    "code": "Hiding",
+    "shifting_spot": "0,0",
+    "shifting_team": "0,0",
+    "battle_assist_range": "0,0",
+    "performance_skill": "",
+    "show_info": 0,
+    "type": 5
+  },
   "320401": {
     "id": 320401,
     "defender": 99999,
