@@ -47,7 +47,7 @@ const ModalAbout = ({
           <tr>
             <td>{about.thanks}</td>
             <td>
-              <span>星光下的彩虹, 杯具终产物, 多多鱼鸟, <a href="https://gf.fws.tw/">少女前線資料庫</a>, 245795867a, iorph, myong</span>
+              <span>星光下的彩虹, 杯具终产物, 多多鱼鸟, <a href="https://gf.fws.tw/">少女前線資料庫</a>, 245795867a, iorph, myong, lins1122</span>
             </td>
           </tr>
           <tr>

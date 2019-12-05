@@ -1903,6 +1903,34 @@
     "code": "INSAS",
     "rank": 3
   },
+  "281": {
+    "id": 281,
+    "name": "gun-10000281",
+    "en_name": "CAWS",
+    "code": "HKCAWS",
+    "rank": 5
+  },
+  "282": {
+    "id": 282,
+    "name": "gun-10000282",
+    "en_name": "DP-12",
+    "code": "DP12",
+    "rank": 5
+  },
+  "283": {
+    "id": 283,
+    "name": "gun-10000283",
+    "en_name": "Liberator",
+    "code": "Liberator",
+    "rank": 4
+  },
+  "284": {
+    "id": 284,
+    "name": "gun-10000284",
+    "en_name": "Zas M76",
+    "code": "ZasM76",
+    "rank": 3
+  },
   "1001": {
     "id": 1001,
     "name": "gun-10001001",
@@ -2365,6 +2393,20 @@
     "code": "M1895Mod",
     "rank": 4
   },
+  "20007": {
+    "id": 20007,
+    "name": "gun-10020007",
+    "en_name": "APS",
+    "code": "APSMod",
+    "rank": 5
+  },
+  "20012": {
+    "id": 20012,
+    "name": "gun-10020012",
+    "en_name": "C96",
+    "code": "C96Mod",
+    "rank": 4
+  },
   "20026": {
     "id": 20026,
     "name": "gun-10020026",
@@ -2377,6 +2419,13 @@
     "name": "gun-10020029",
     "en_name": "Sten Mk Ⅱ",
     "code": "StenMK2Mod",
+    "rank": 4
+  },
+  "20031": {
+    "id": 20031,
+    "name": "gun-10020031",
+    "en_name": "MAB 38",
+    "code": "MAB38Mod",
     "rank": 4
   },
   "20032": {
@@ -2413,6 +2462,13 @@
     "en_name": "FN-49",
     "code": "FN49Mod",
     "rank": 4
+  },
+  "20053": {
+    "id": 20053,
+    "name": "gun-10020053",
+    "en_name": "NTW-20",
+    "code": "NTW20Mod",
+    "rank": 6
   },
   "20055": {
     "id": 20055,
