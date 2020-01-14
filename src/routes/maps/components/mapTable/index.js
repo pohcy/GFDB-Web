@@ -189,7 +189,9 @@ const TeamTable = ({
       x: clientType === 'web' ?
       0 :
       clientWidth - 16,
+      y: 325,
     },
+    pagination: false,
     rowClassName: (rec) => {
       if (rec.id === enemyTeamSelected.id) {
         return `${les.tr} ${les.active}`
@@ -207,26 +209,28 @@ const TeamTable = ({
 
   return (
     <div>
-      <Table {...propsOfTable} />
-      <div className={les.teamSelect}>
-        <span className={les.title}>{__('team_sel.label')}</span>
-        <select
-          className={`ant-select ant-select-enabled ${les.select}`}
-          value={enemyTeamSelected.id}
-          onChange={selectOtherEnemyTeam}
-        >
-          {/* {mapTeamOpt(enemy_team_info)} */}
-          {mapTeamOpt(enemy_team_info)}
-        </select>
-        <Input
-          allowClear
-          className={les.inputInHand}
-          placeholder={__('team_sel.input_in_hand')}
-          onPressEnter={handleInputComplete}
-          suffix={(<Icon type="enter" />)}
-        />
+      <div className={les.wrapepr}>
+        <Table {...propsOfTable} />
       </div>
+      <div className={les.teamSelect}>
+      <span className={les.title}>{__('team_sel.label')}</span>
+      <select
+        className={`ant-select ant-select-enabled ${les.select}`}
+        value={enemyTeamSelected.id}
+        onChange={selectOtherEnemyTeam}
+      >
+        {/* {mapTeamOpt(enemy_team_info)} */}
+        {mapTeamOpt(enemy_team_info)}
+      </select>
+      <Input
+        allowClear
+        className={les.inputInHand}
+        placeholder={__('team_sel.input_in_hand')}
+        onPressEnter={handleInputComplete}
+        suffix={(<Icon type="enter" />)}
+      />
     </div>
+  </div>
   )
 }
 

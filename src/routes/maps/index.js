@@ -8,6 +8,7 @@ import MapSelect from './components/mapSelect'
 import MapCanvas from './components/mapCanvas'
 import MapTable from './components/mapTable'
 import TeamTable from './components/teamTable'
+import TeamCanvas from './components/teamCanvas'
 
 const Main = ({
   dispatch,
@@ -50,6 +51,8 @@ const Main = ({
           <MapTable {...propsOfMapTable} />
           {/* 队伍详情信息 */}
           <TeamTable {...propsOfTeamTable} />
+          {/*쏼라 쏼라 */}
+          <TeamCanvas {...propsOfTeamTable} />
         </div>
       </Skeleton>
     </div>
