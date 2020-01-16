@@ -216,7 +216,7 @@ class MapCanvas extends React.Component {
           <Alert message={__('map_tbl.warning')} type="error" />
         </div>
         <div className={les.warning}>
-          <Alert message="I took over the project. Feedback may take a long time to reflect." type="success" />
+          <Alert message="There is some bug about 'Building'. Some buildings may not display correctly." type="error" />
         </div>
         {/* canvas */}
         <div className={les.canvasArea}>

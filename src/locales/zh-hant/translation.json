@@ -140,10 +140,11 @@
     "djmax": "榮耀日",
     "turbulence": "有序紊流",
     "isomer": "異構體",
-    "vahall": "瓦尔哈拉",
-    "connexion": "裂變鏈接",
-    "halloween": "诡疫狂潮",
-    "xmas" : "雪夜杀礼异想曲"
+    "vahall": "瓦爾哈拉",
+    "connexion": "裂變鏈結",
+    "halloween": "詭疫狂潮",
+    "xmas": "雪夜殺禮異響曲",
+    "polarized": "偏振光"
   },
   "enemy_char_name": {
     "9999": "",

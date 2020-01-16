@@ -1938,6 +1938,97 @@
     "code": "ZasM76",
     "rank": 3
   },
+  "285": {
+    "id": 285,
+    "name": "gun-10000285",
+    "en_name": "C-93",
+    "code": "C93",
+    "rank": 5
+  },
+  "286": {
+    "id": 286,
+    "name": "gun-10000286",
+    "en_name": "K-PDW",
+    "code": "KAC",
+    "rank": 4
+  },
+  "287": {
+    "id": 287,
+    "name": "gun-10000287",
+    "en_name": "SIG556",
+    "code": "SIG556",
+    "rank": 5
+  },
+  "288": {
+    "id": 288,
+    "name": "gun-10000288",
+    "en_name": "CR-21",
+    "code": "CR21",
+    "rank": 4
+  },
+  "289": {
+    "id": 289,
+    "name": "gun-10000289",
+    "en_name": "R5",
+    "code": "R5RGP",
+    "rank": 5
+  },
+  "290": {
+    "id": 290,
+    "name": "gun-10000290",
+    "en_name": "Type89",
+    "code": "HowaType89",
+    "rank": 5
+  },
+  "291": {
+    "id": 291,
+    "name": "gun-10000291",
+    "en_name": "Danuvia43M",
+    "code": "Danuvia43M",
+    "rank": 3
+  },
+  "292": {
+    "id": 292,
+    "name": "gun-10000292",
+    "en_name": "RPK-16",
+    "code": "RPK16",
+    "rank": 5
+  },
+  "293": {
+    "id": 293,
+    "name": "gun-10000293",
+    "en_name": "AK-15",
+    "code": "AK15",
+    "rank": 5
+  },
+  "294": {
+    "id": 294,
+    "name": "gun-10000294",
+    "en_name": "Webley",
+    "code": "Webley",
+    "rank": 5
+  },
+  "295": {
+    "id": 295,
+    "name": "gun-10000295",
+    "en_name": "CF05",
+    "code": "06TypeSMG",
+    "rank": 4
+  },
+  "296": {
+    "id": 296,
+    "name": "gun-10000296",
+    "en_name": "SL8",
+    "code": "SL8",
+    "rank": 5
+  },
+  "297": {
+    "id": 297,
+    "name": "gun-10000297",
+    "en_name": "M82",
+    "code": "M82",
+    "rank": 4
+  },
   "1001": {
     "id": 1001,
     "name": "gun-10001001",

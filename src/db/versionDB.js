@@ -1,5 +1,14 @@
 export default [
   {
+    version: '0.1.3',
+    date: '2020.01.16',
+    desc: '리소스 및 전투 좌표계 추가(beta)/Add coordinate Combat coordinate system(beta)',
+    details: [
+      "전투 좌표계 추가. 추후 수정 예정",
+      "이벤트 리소스 일부 추가",
+    ],
+  },
+  {
     version: '0.1.2',
     date: '2019.11.07',
     desc: '리소스 추가 및 리사이징, 버그 수정/Resize some resources, and bug fix',
