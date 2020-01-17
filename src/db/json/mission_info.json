@@ -54798,7 +54798,7 @@
     "win_turn": 0,
     "win_spot_id": "0",
     "special_spot_id": "",
-    "expect_enemy_die_num": 4,
+    "expect_enemy_die_num": 8,
     "expect_gun_die_num": 0,
     "expect_turn": 6,
     "boss_team_id": "",
@@ -56290,7 +56290,9 @@
       90918,
       90919,
       90920,
-      90922
+      90922,
+      90923,
+      90924
     ],
     "enemy_team_count": {
       "362601": 1
@@ -57144,10 +57146,7 @@
     "limit_squad": 2,
     "index_text": "1-39",
     "index_sort": 1039,
-    "spot_ids": [
-      90923,
-      90924
-    ],
+    "spot_ids": [],
     "enemy_team_count": {},
     "map_all_width": 3000,
     "map_all_height": 2625,
