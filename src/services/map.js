@@ -504,7 +504,7 @@ class Map {
       var wo = spineImg.naturalWidth;
       var ho = spineImg.naturalHeight;
       var shift = building.shifting_spot.split(",");
-      x0 -= parseInt(shift[0]);
+      x0 += parseInt(shift[0]);
       y0 -= parseInt(shift[1]);
       var w = wo * 1.5;
       var h = ho * 1.5;
@@ -558,7 +558,7 @@ class Map {
       if (spot.building_id != 0) {
         var shift = this.building_info[spot.building_id].shifting_team.split(",");
         x0 += parseInt(shift[0]);
-        y0 += parseInt(shift[1]);
+        y0 -= parseInt(shift[1]);
       }
       if (spot.hostage_info) {
         var s = spot.hostage_info.split(",");

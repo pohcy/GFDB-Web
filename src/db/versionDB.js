@@ -1,5 +1,14 @@
 export default [
   {
+    version: '0.1.4',
+    date: '2020.02.25',
+    desc: '빌딩 리소스 추가 및 빌딩 이미지 좌표 수정',
+    details: [
+      "일부 누락 빌딩 리소스 추가",
+      "빌딩 이미지 생성 시 좌표가 반대로 적용되는 점 수정",
+    ],
+  },
+  {
     version: '0.1.3',
     date: '2020.01.16',
     desc: '리소스 및 전투 좌표계 추가(beta)/Add coordinate Combat coordinate system(beta)',

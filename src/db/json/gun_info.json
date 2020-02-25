@@ -2029,6 +2029,13 @@
     "code": "M82",
     "rank": 4
   },
+  "298": {
+    "id": 298,
+    "name": "gun-10000298",
+    "en_name": "Vepr",
+    "code": "VEPR",
+    "rank": 3
+  },
   "1001": {
     "id": 1001,
     "name": "gun-10001001",
@@ -2468,6 +2475,34 @@
     "name": "gun-10009048",
     "en_name": "M4A1",
     "code": "M4A1Mod_Ogas",
+    "rank": 5
+  },
+  "9049": {
+    "id": 9049,
+    "name": "gun-10009049",
+    "en_name": "Scarecrow_Ally",
+    "code": "Scarecrow_Ally",
+    "rank": 5
+  },
+  "9050": {
+    "id": 9050,
+    "name": "gun-10009050",
+    "en_name": "Excutioner_Griffin",
+    "code": "Excutioner_Griffin",
+    "rank": 5
+  },
+  "9051": {
+    "id": 9051,
+    "name": "gun-10009051",
+    "en_name": "Boss9_Ally",
+    "code": "Boss9_Ally",
+    "rank": 5
+  },
+  "9052": {
+    "id": 9052,
+    "name": "gun-10009052",
+    "en_name": "Hunter_Ally",
+    "code": "Hunter_Ally",
     "rank": 5
   },
   "20001": {
