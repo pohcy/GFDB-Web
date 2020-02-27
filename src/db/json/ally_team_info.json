@@ -14608,7 +14608,7 @@
     "fairy": 0,
     "enemy_team_id": 361806,
     "initial_type": 0,
-    "ai": "102;0;0",
+    "ai": "103;0;0",
     "ai_content": "1;0;0",
     "betray_condition": "0",
     "betray_number": "0",
@@ -14639,6 +14639,46 @@
     "icon": "",
     "leader_id": 26
   },
+  "361808": {
+    "id": 361808,
+    "code": "",
+    "ui_image_icon": "",
+    "name": "ally_team-10361808",
+    "guns": "1",
+    "fairy": 0,
+    "enemy_team_id": 361808,
+    "initial_type": 0,
+    "ai": "0;0;0",
+    "ai_content": "0;0;0",
+    "betray_condition": "0",
+    "betray_number": "0",
+    "betray_result": "0",
+    "transform_condition": "0",
+    "transform_number": "0",
+    "transform_result": "0",
+    "icon": "",
+    "leader_id": 26
+  },
+  "361809": {
+    "id": 361809,
+    "code": "",
+    "ui_image_icon": "",
+    "name": "ally_team-10361809",
+    "guns": "1",
+    "fairy": 0,
+    "enemy_team_id": 361809,
+    "initial_type": 0,
+    "ai": "0;0;0",
+    "ai_content": "0;0;0",
+    "betray_condition": "0",
+    "betray_number": "0",
+    "betray_result": "0",
+    "transform_condition": "0",
+    "transform_number": "0",
+    "transform_result": "0",
+    "icon": "",
+    "leader_id": 26
+  },
   "362102": {
     "id": 362102,
     "code": "",
@@ -14657,7 +14697,7 @@
     "transform_number": "0",
     "transform_result": "0",
     "icon": "",
-    "leader_id": 20055
+    "leader_id": 9053
   },
   "362205": {
     "id": 362205,
@@ -14857,7 +14897,7 @@
     "transform_number": "0",
     "transform_result": "0",
     "icon": "Army",
-    "leader_id": 20055
+    "leader_id": 9053
   },
   "362701": {
     "id": 362701,
@@ -15208,7 +15248,7 @@
     "fairy": 0,
     "enemy_team_id": 362921,
     "initial_type": 0,
-    "ai": "0;1;0",
+    "ai": "102;1;102",
     "ai_content": "1;0;1",
     "betray_condition": "0",
     "betray_number": "0",

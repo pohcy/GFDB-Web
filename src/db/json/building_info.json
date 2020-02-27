@@ -6045,7 +6045,28 @@
     "battle_assist_range": "0,0",
     "performance_skill": "",
     "show_info": 0,
-    "type": 18
+    "type": 5
+  },
+  "361803": {
+    "id": 361803,
+    "defender": 99999,
+    "defender_upper": 99999,
+    "belong": 3,
+    "hold_belong": 1,
+    "mission_skill": "0;0;0;0",
+    "battle_skill": "0;0;0;0",
+    "condition": "0:0,1:0;0:0,1:0",
+    "is_destroy": "0",
+    "is_rebuild": 0,
+    "draw_event": 0,
+    "name": "building-10361803",
+    "code": "Hiding",
+    "shifting_spot": "0,0",
+    "shifting_team": "0,0",
+    "battle_assist_range": "0,0",
+    "performance_skill": "",
+    "show_info": 0,
+    "type": 5
   },
   "362001": {
     "id": 362001,
@@ -6928,6 +6949,27 @@
     "performance_skill": "",
     "show_info": 1,
     "type": 7
+  },
+  "362907": {
+    "id": 362907,
+    "defender": 50,
+    "defender_upper": 50,
+    "belong": 2,
+    "hold_belong": 0,
+    "mission_skill": "0;1000010;0;0",
+    "battle_skill": "0;0;0;0",
+    "condition": "0:0,1:0;0:0,1:1",
+    "is_destroy": "0",
+    "is_rebuild": 0,
+    "draw_event": 0,
+    "name": "building-10362907",
+    "code": "Hiding",
+    "shifting_spot": "0,0",
+    "shifting_team": "0,0",
+    "battle_assist_range": "0,0",
+    "performance_skill": "",
+    "show_info": 0,
+    "type": 5
   },
   "363001": {
     "id": 363001,

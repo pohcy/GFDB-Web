@@ -65,10 +65,11 @@ class Map {
 
     // 定义监听事件
     const mousedownHandler = (evt) => {
+      /*드래그 방지 처리. 렉 발생해서 주석처리로 생략.
       document.body.style.mozUserSelect
       = document.body.style.webkitUserSelect
       = document.body.style.userSelect
-      = 'none';
+      = 'none';*/
 
       lastX = evt.offsetX || (evt.pageX - canvas.offsetLeft);
       lastY = evt.offsetY || (evt.pageY - canvas.offsetTop);

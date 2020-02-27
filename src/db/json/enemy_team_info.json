@@ -136592,7 +136592,7 @@
       36180108,
       36180109
     ],
-    "spot_id": 0,
+    "spot_id": 70128,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -136631,7 +136631,7 @@
       36180212,
       36180213
     ],
-    "spot_id": 0,
+    "spot_id": 70108,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -136658,7 +136658,7 @@
     "member_ids": [
       36180303
     ],
-    "spot_id": 0,
+    "spot_id": 70120,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -136687,11 +136687,9 @@
       36180402,
       36180403,
       36180404,
-      36180405,
-      36180406,
-      36180407
+      36180405
     ],
-    "spot_id": 0,
+    "spot_id": 70110,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -136726,7 +136724,7 @@
       36180508,
       36180509
     ],
-    "spot_id": 0,
+    "spot_id": 70130,
     "drops_limit": [
       "gun-10000251",
       "gun-10000274",
@@ -136758,7 +136756,7 @@
     "member_ids": [
       36180603
     ],
-    "spot_id": 0,
+    "spot_id": 70118,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -136787,7 +136785,75 @@
       36180702,
       36180703
     ],
-    "spot_id": 0,
+    "spot_id": 70125,
+    "drops_limit": [
+      "gun-10000251",
+      "gun-10000274",
+      "gun-10000277",
+      "gun-10000278"
+    ],
+    "drops_reg_count": [
+      0,
+      17,
+      14,
+      3,
+      2
+    ],
+    "lv_up_array": [],
+    "no_map": false,
+    "is_night": false
+  },
+  "361808": {
+    "id": 361808,
+    "enemy_leader": 900212,
+    "correction_belong": "",
+    "correction_turn": "",
+    "limit_guns": "251,274,277,278",
+    "limit_equips": "",
+    "ai": 0,
+    "ai_content": "",
+    "reward_gun_pool": "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,278,277,251,274,26,100,101",
+    "equip_s_probability": "",
+    "member_ids": [
+      36180801,
+      36180802,
+      36180803
+    ],
+    "spot_id": 70123,
+    "drops_limit": [
+      "gun-10000251",
+      "gun-10000274",
+      "gun-10000277",
+      "gun-10000278"
+    ],
+    "drops_reg_count": [
+      0,
+      17,
+      14,
+      3,
+      2
+    ],
+    "lv_up_array": [],
+    "no_map": false,
+    "is_night": false
+  },
+  "361809": {
+    "id": 361809,
+    "enemy_leader": 900212,
+    "correction_belong": "",
+    "correction_turn": "",
+    "limit_guns": "251,274,277,278",
+    "limit_equips": "",
+    "ai": 0,
+    "ai_content": "",
+    "reward_gun_pool": "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,278,277,251,274,26,100,101",
+    "equip_s_probability": "",
+    "member_ids": [
+      36180901,
+      36180902,
+      36180903
+    ],
+    "spot_id": 70124,
     "drops_limit": [
       "gun-10000251",
       "gun-10000274",
@@ -137127,7 +137193,7 @@
     "member_ids": [
       36200101
     ],
-    "spot_id": 0,
+    "spot_id": 70322,
     "drops_limit": [
       "gun-10000234",
       "gun-10000268",
@@ -137158,7 +137224,7 @@
     "member_ids": [
       36210101
     ],
-    "spot_id": 0,
+    "spot_id": 70401,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -137191,7 +137257,7 @@
       8360379,
       8360380
     ],
-    "spot_id": 0,
+    "spot_id": 91001,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -137228,7 +137294,7 @@
       8360390,
       8360391
     ],
-    "spot_id": 0,
+    "spot_id": 91007,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -137257,7 +137323,7 @@
       8360393,
       8360394
     ],
-    "spot_id": 0,
+    "spot_id": 91005,
     "drops_limit": [
       "gun-10000297",
       "gun-10000277",
@@ -137294,7 +137360,7 @@
       8360400,
       8360401
     ],
-    "spot_id": 0,
+    "spot_id": 91010,
     "drops_limit": [
       "gun-10000297",
       "gun-10000277",
@@ -137330,7 +137396,7 @@
       8360406,
       8360407
     ],
-    "spot_id": 0,
+    "spot_id": 91004,
     "drops_limit": [
       "gun-10000297",
       "gun-10000277",
@@ -137367,7 +137433,7 @@
       8360413,
       8360414
     ],
-    "spot_id": 0,
+    "spot_id": 91006,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -137400,7 +137466,7 @@
       8360420,
       8360421
     ],
-    "spot_id": 0,
+    "spot_id": 91009,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -137436,7 +137502,7 @@
       8360430,
       8360431
     ],
-    "spot_id": 0,
+    "spot_id": 91003,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -137470,7 +137536,7 @@
       8360438,
       8360439
     ],
-    "spot_id": 0,
+    "spot_id": 91018,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -137505,7 +137571,7 @@
       8360447,
       8360448
     ],
-    "spot_id": 0,
+    "spot_id": 91021,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -137534,7 +137600,7 @@
       8360450,
       8360451
     ],
-    "spot_id": 0,
+    "spot_id": 91022,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -137568,7 +137634,7 @@
       8360458,
       8360459
     ],
-    "spot_id": 0,
+    "spot_id": 91023,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -137602,7 +137668,7 @@
       8360466,
       8360467
     ],
-    "spot_id": 0,
+    "spot_id": 91024,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -137631,7 +137697,7 @@
       8360469,
       8360470
     ],
-    "spot_id": 0,
+    "spot_id": 91027,
     "drops_limit": [
       "gun-10000295",
       "gun-10000279",
@@ -137665,7 +137731,7 @@
       8360473,
       8360474
     ],
-    "spot_id": 0,
+    "spot_id": 91030,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -137695,7 +137761,7 @@
       8360477,
       8360478
     ],
-    "spot_id": 0,
+    "spot_id": 91033,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -137726,7 +137792,7 @@
       8360482,
       8360483
     ],
-    "spot_id": 0,
+    "spot_id": 91045,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -137757,7 +137823,7 @@
       8360487,
       8360488
     ],
-    "spot_id": 0,
+    "spot_id": 91036,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -137790,7 +137856,7 @@
       8360494,
       8360495
     ],
-    "spot_id": 0,
+    "spot_id": 91043,
     "drops_limit": [
       "gun-10000295",
       "gun-10000279",
@@ -137829,7 +137895,7 @@
       8360503,
       8360504
     ],
-    "spot_id": 0,
+    "spot_id": 91039,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -137864,7 +137930,7 @@
       8360512,
       8360513
     ],
-    "spot_id": 0,
+    "spot_id": 91046,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -137896,7 +137962,7 @@
       8360518,
       8360519
     ],
-    "spot_id": 0,
+    "spot_id": 91034,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -137928,7 +137994,7 @@
       8360524,
       8360525
     ],
-    "spot_id": 0,
+    "spot_id": 91052,
     "drops_limit": [
       "gun-10000295",
       "gun-10000279",
@@ -138910,7 +138976,7 @@
     "member_ids": [
       8360565
     ],
-    "spot_id": 0,
+    "spot_id": 91064,
     "drops_limit": [
       "gun-10000251",
       "gun-10000234",
@@ -138948,7 +139014,7 @@
       8360571,
       8360572
     ],
-    "spot_id": 0,
+    "spot_id": 91078,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -138982,7 +139048,7 @@
       8360579,
       8360580
     ],
-    "spot_id": 0,
+    "spot_id": 91082,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -139014,7 +139080,7 @@
       8360585,
       8360586
     ],
-    "spot_id": 0,
+    "spot_id": 91087,
     "drops_limit": [
       "gun-10000251",
       "gun-10000234",
@@ -139050,7 +139116,7 @@
       8360590,
       8360591
     ],
-    "spot_id": 0,
+    "spot_id": 91086,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -139088,7 +139154,7 @@
       8360602,
       8360603
     ],
-    "spot_id": 0,
+    "spot_id": 91084,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -139121,7 +139187,7 @@
       8360609,
       8360610
     ],
-    "spot_id": 0,
+    "spot_id": 91081,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -139160,7 +139226,7 @@
       8360622,
       8360623
     ],
-    "spot_id": 0,
+    "spot_id": 91071,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -139175,7 +139241,7 @@
   },
   "362901": {
     "id": 362901,
-    "enemy_leader": 900204,
+    "enemy_leader": 900214,
     "correction_belong": "",
     "correction_turn": "",
     "limit_guns": "",
@@ -139200,7 +139266,7 @@
       8360013,
       8360014
     ],
-    "spot_id": 0,
+    "spot_id": 90977,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -139234,7 +139300,7 @@
       8360021,
       8360022
     ],
-    "spot_id": 0,
+    "spot_id": 90996,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -139268,7 +139334,7 @@
       8360029,
       8360030
     ],
-    "spot_id": 0,
+    "spot_id": 90989,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -139300,7 +139366,7 @@
       8360035,
       8360036
     ],
-    "spot_id": 0,
+    "spot_id": 90993,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -139333,7 +139399,7 @@
       8360042,
       8360043
     ],
-    "spot_id": 0,
+    "spot_id": 90994,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -139366,7 +139432,7 @@
       8360049,
       8360050
     ],
-    "spot_id": 0,
+    "spot_id": 90973,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -139400,7 +139466,7 @@
       8360057,
       8360058
     ],
-    "spot_id": 0,
+    "spot_id": 90981,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -139436,7 +139502,7 @@
       8360067,
       8360068
     ],
-    "spot_id": 0,
+    "spot_id": 90982,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -139472,7 +139538,7 @@
       8360077,
       8360078
     ],
-    "spot_id": 0,
+    "spot_id": 90984,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -139505,7 +139571,7 @@
       8360084,
       8360085
     ],
-    "spot_id": 0,
+    "spot_id": 90986,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -139520,7 +139586,7 @@
   },
   "362911": {
     "id": 362911,
-    "enemy_leader": 900204,
+    "enemy_leader": 900214,
     "correction_belong": "",
     "correction_turn": "",
     "limit_guns": "",
@@ -139545,7 +139611,7 @@
       8360098,
       8360099
     ],
-    "spot_id": 0,
+    "spot_id": 90956,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -139579,7 +139645,7 @@
       8360106,
       8360107
     ],
-    "spot_id": 0,
+    "spot_id": 90966,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -139613,7 +139679,7 @@
       8360114,
       8360115
     ],
-    "spot_id": 0,
+    "spot_id": 90961,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -139645,7 +139711,7 @@
       8360120,
       8360121
     ],
-    "spot_id": 0,
+    "spot_id": 90963,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -139678,7 +139744,7 @@
       8360127,
       8360128
     ],
-    "spot_id": 0,
+    "spot_id": 90959,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -139716,7 +139782,7 @@
       8360139,
       8360140
     ],
-    "spot_id": 0,
+    "spot_id": 90952,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -139750,7 +139816,7 @@
       8360147,
       8360148
     ],
-    "spot_id": 0,
+    "spot_id": 90949,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -139782,7 +139848,7 @@
       8360153,
       8360154
     ],
-    "spot_id": 0,
+    "spot_id": 90944,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -139815,7 +139881,7 @@
       8360160,
       8360161
     ],
-    "spot_id": 0,
+    "spot_id": 90943,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -139848,7 +139914,7 @@
       8360167,
       8360168
     ],
-    "spot_id": 0,
+    "spot_id": 90939,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -139875,7 +139941,7 @@
     "member_ids": [
       8360169
     ],
-    "spot_id": 0,
+    "spot_id": 90930,
     "drops_limit": [
       "gun-10000274",
       "gun-10000272",
@@ -139917,7 +139983,7 @@
       8360179,
       8360180
     ],
-    "spot_id": 0,
+    "spot_id": 90931,
     "drops_limit": [
       "gun-10000274",
       "gun-10000272",
@@ -139963,7 +140029,7 @@
       8360194,
       8360195
     ],
-    "spot_id": 0,
+    "spot_id": 90933,
     "drops_limit": [
       "gun-10000274",
       "gun-10000272",
@@ -139983,7 +140049,7 @@
   },
   "362924": {
     "id": 362924,
-    "enemy_leader": 900204,
+    "enemy_leader": 900214,
     "correction_belong": "",
     "correction_turn": "",
     "limit_guns": "274,272,279,284",
@@ -140005,7 +140071,7 @@
       8360205,
       8360206
     ],
-    "spot_id": 0,
+    "spot_id": 90932,
     "drops_limit": [
       "gun-10000274",
       "gun-10000272",
@@ -140044,7 +140110,7 @@
       8360213,
       8360214
     ],
-    "spot_id": 0,
+    "spot_id": 90929,
     "drops_limit": [
       "gun-10000274",
       "gun-10000272",

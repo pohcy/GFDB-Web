@@ -2036,6 +2036,13 @@
     "code": "VEPR",
     "rank": 3
   },
+  "299": {
+    "id": 299,
+    "name": "gun-10000299",
+    "en_name": "HSM10",
+    "code": "HSM10",
+    "rank": 3
+  },
   "1001": {
     "id": 1001,
     "name": "gun-10001001",
@@ -2503,6 +2510,13 @@
     "name": "gun-10009052",
     "en_name": "Hunter_Ally",
     "code": "Hunter_Ally",
+    "rank": 5
+  },
+  "9053": {
+    "id": 9053,
+    "name": "gun-10009053",
+    "en_name": "M4A1",
+    "code": "M4A1Mod_Ogas",
     "rank": 5
   },
   "20001": {
