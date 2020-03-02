@@ -142936,7 +142936,7 @@
       8036969,
       8036970
     ],
-    "spot_id": 0,
+    "spot_id": -1,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -142971,7 +142971,7 @@
       8036974,
       8036975
     ],
-    "spot_id": 0,
+    "spot_id": -1,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -143009,7 +143009,7 @@
       8036982,
       8036983
     ],
-    "spot_id": 0,
+    "spot_id": -1,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -143044,7 +143044,7 @@
       8036987,
       8036988
     ],
-    "spot_id": 0,
+    "spot_id": -1,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -143081,7 +143081,7 @@
       8036994,
       8036995
     ],
-    "spot_id": 0,
+    "spot_id": -1,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -143120,7 +143120,7 @@
       8037000,
       8037001
     ],
-    "spot_id": 0,
+    "spot_id": -1,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -143160,7 +143160,7 @@
       8037007,
       8037008
     ],
-    "spot_id": 0,
+    "spot_id": -1,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -143199,7 +143199,7 @@
       8037013,
       8037014
     ],
-    "spot_id": 0,
+    "spot_id": -1,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -143240,7 +143240,7 @@
       8037021,
       8037022
     ],
-    "spot_id": 0,
+    "spot_id": -1,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -143275,7 +143275,7 @@
       8037030,
       8037031
     ],
-    "spot_id": 0,
+    "spot_id": -1,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -143310,7 +143310,7 @@
       8037039,
       8037040
     ],
-    "spot_id": 0,
+    "spot_id": -1,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -143344,7 +143344,7 @@
       8037047,
       8037048
     ],
-    "spot_id": 0,
+    "spot_id": -1,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -143376,7 +143376,7 @@
       8037053,
       8037054
     ],
-    "spot_id": 0,
+    "spot_id": -1,
     "drops_limit": [],
     "drops_reg_count": [
       0,
@@ -143407,7 +143407,7 @@
       8037301,
       8037302
     ],
-    "spot_id": 0,
+    "spot_id": -1,
     "drops_limit": [
       "gun-10000251",
       "gun-10000234",
@@ -143463,7 +143463,7 @@
       8037347,
       8037348
     ],
-    "spot_id": 0,
+    "spot_id": -1,
     "drops_limit": [
       "gun-10000251",
       "gun-10000234",
