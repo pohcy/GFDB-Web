@@ -1080,5 +1080,87 @@
     "ammo_h": 0.0,
     "mre_h": 150.0,
     "part_h": 0.0
+  },
+  "53": {
+    "id": 53,
+    "campaign": 13,
+    "name": "operation-10000053",
+    "duration": 10800,
+    "mp": 0,
+    "ammo": 0,
+    "mre": 1200,
+    "part": 0,
+    "item_pool": "3",
+    "team_leader_min_level": 85,
+    "item_list": [
+      3
+    ],
+    "total": 1200,
+    "duration_h": 3.0,
+    "mp_h": 0.0,
+    "ammo_h": 0.0,
+    "mre_h": 400.0,
+    "part_h": 0.0
+  },
+  "54": {
+    "id": 54,
+    "campaign": 13,
+    "name": "operation-10000054",
+    "duration": 21600,
+    "mp": 800,
+    "ammo": 800,
+    "mre": 800,
+    "part": 300,
+    "item_pool": "0",
+    "team_leader_min_level": 85,
+    "item_list": [],
+    "total": 2700,
+    "duration_h": 6.0,
+    "mp_h": 133.33333333333334,
+    "ammo_h": 133.33333333333334,
+    "mre_h": 133.33333333333334,
+    "part_h": 50.0
+  },
+  "55": {
+    "id": 55,
+    "campaign": 13,
+    "name": "operation-10000055",
+    "duration": 86400,
+    "mp": 0,
+    "ammo": 4000,
+    "mre": 0,
+    "part": 1200,
+    "item_pool": "2",
+    "team_leader_min_level": 90,
+    "item_list": [
+      2
+    ],
+    "total": 5200,
+    "duration_h": 24.0,
+    "mp_h": 0.0,
+    "ammo_h": 166.66666666666666,
+    "mre_h": 0.0,
+    "part_h": 50.0
+  },
+  "56": {
+    "id": 56,
+    "campaign": 13,
+    "name": "operation-10000056",
+    "duration": 21600,
+    "mp": 0,
+    "ammo": 0,
+    "mre": 0,
+    "part": 1000,
+    "item_pool": "1",
+    "team_leader_min_level": 95,
+    "item_list": [
+      1
+    ],
+    "total": 1000,
+    "duration_h": 6.0,
+    "mp_h": 0.0,
+    "ammo_h": 0.0,
+    "mre_h": 0.0,
+    "part_h": 166.66666666666666
   }
 }

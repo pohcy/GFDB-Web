@@ -2043,6 +2043,62 @@
     "code": "HSM10",
     "rank": 3
   },
+  "300": {
+    "id": 300,
+    "name": "gun-10000300",
+    "en_name": "CAR",
+    "code": "CAR",
+    "rank": 3
+  },
+  "301": {
+    "id": 301,
+    "name": "gun-10000301",
+    "en_name": "MAS-38",
+    "code": "MAS38",
+    "rank": 3
+  },
+  "302": {
+    "id": 302,
+    "name": "gun-10000302",
+    "en_name": "ColtDefender",
+    "code": "ColtDefender",
+    "rank": 4
+  },
+  "303": {
+    "id": 303,
+    "name": "gun-10000303",
+    "en_name": "HP-35",
+    "code": "BrowningHP",
+    "rank": 5
+  },
+  "304": {
+    "id": 304,
+    "name": "gun-10000304",
+    "en_name": "SAF",
+    "code": "SAF",
+    "rank": 4
+  },
+  "305": {
+    "id": 305,
+    "name": "gun-10000305",
+    "en_name": "Tabuk",
+    "code": "Tabuk",
+    "rank": 4
+  },
+  "306": {
+    "id": 306,
+    "name": "gun-10000306",
+    "en_name": "AK-Alfa",
+    "code": "AKAlfa",
+    "rank": 5
+  },
+  "307": {
+    "id": 307,
+    "name": "gun-10000307",
+    "en_name": "ZB-26",
+    "code": "ZB26",
+    "rank": 5
+  },
   "1001": {
     "id": 1001,
     "name": "gun-10001001",
@@ -2519,6 +2575,20 @@
     "code": "M4A1Mod_Ogas",
     "rank": 5
   },
+  "9054": {
+    "id": 9054,
+    "name": "gun-10009054",
+    "en_name": "Scarecrow_shadow",
+    "code": "Scarecrow_shadow",
+    "rank": 5
+  },
+  "9055": {
+    "id": 9055,
+    "name": "gun-10009055",
+    "en_name": "HostageCommander",
+    "code": "HostageCommander",
+    "rank": 3
+  },
   "20001": {
     "id": 20001,
     "name": "gun-10020001",
@@ -2722,6 +2792,13 @@
     "code": "88typeMod",
     "rank": 4
   },
+  "20097": {
+    "id": 20097,
+    "name": "gun-10020097",
+    "en_name": "M950A",
+    "code": "M950AMod",
+    "rank": 6
+  },
   "20101": {
     "id": 20101,
     "name": "gun-10020101",
@@ -2734,6 +2811,48 @@
     "name": "gun-10020103",
     "en_name": "UMP45",
     "code": "UMP45Mod",
+    "rank": 5
+  },
+  "20154": {
+    "id": 20154,
+    "name": "gun-10020154",
+    "en_name": "M500",
+    "code": "M500Mod",
+    "rank": 4
+  },
+  "20221": {
+    "id": 20221,
+    "name": "gun-10020221",
+    "en_name": "GSh-18",
+    "code": "GSH18Mod",
+    "rank": 4
+  },
+  "20252": {
+    "id": 20252,
+    "name": "gun-10020252",
+    "en_name": "KSVK",
+    "code": "KSVKMod",
+    "rank": 5
+  },
+  "30156": {
+    "id": 30156,
+    "name": "gun-10030156",
+    "en_name": "Super-Shorty",
+    "code": "SuperShorty_sangvis",
+    "rank": 4
+  },
+  "30164": {
+    "id": 30164,
+    "name": "gun-10030164",
+    "en_name": "FP-6",
+    "code": "FP6_sangvis",
+    "rank": 5
+  },
+  "30229": {
+    "id": 30229,
+    "name": "gun-10030229",
+    "en_name": "M870P",
+    "code": "M870_sangvis",
     "rank": 5
   }
 }
