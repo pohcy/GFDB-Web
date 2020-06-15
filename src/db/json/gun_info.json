@@ -506,7 +506,7 @@
   "77": {
     "id": 77,
     "name": "gun-10000077",
-    "en_name": "M2HB ",
+    "en_name": "M2HB",
     "code": "M2HB",
     "rank": 3
   },
@@ -2098,6 +2098,13 @@
     "en_name": "ZB-26",
     "code": "ZB26",
     "rank": 5
+  },
+  "308": {
+    "id": 308,
+    "name": "gun-10000308",
+    "en_name": "C14",
+    "code": "C14",
+    "rank": 3
   },
   "1001": {
     "id": 1001,

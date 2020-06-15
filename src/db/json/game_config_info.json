@@ -20,7 +20,7 @@
   "activity_rank_end_showtime": {
     "parameter_name": "activity_rank_end_showtime",
     "parameter_type": "int",
-    "parameter_value": "1585670399",
+    "parameter_value": "1593705599",
     "client_require": 1
   },
   "activity_rank_id": {
@@ -32,7 +32,7 @@
   "activity_rank_mission_id": {
     "parameter_name": "activity_rank_mission_id",
     "parameter_type": "int",
-    "parameter_value": "10418",
+    "parameter_value": "10508",
     "client_require": 1
   },
   "additional_range": {
@@ -62,7 +62,7 @@
   "anniversary_guns_avg_switch": {
     "parameter_name": "anniversary_guns_avg_switch",
     "parameter_type": "int",
-    "parameter_value": "1",
+    "parameter_value": "0",
     "client_require": 1
   },
   "anti_indulgence_heart_beat_rate": {
